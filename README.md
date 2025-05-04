@@ -1,4 +1,4 @@
-# 📰 Newspaper Scraper Using R
+# 📰 Newspaper Scraping Using R
 
 This project scrapes news articles about **Bangladesh** from the online edition of an international newspaper using **R** and **RSelenium**. The goal is to collect a relevant corpus for **natural language processing (NLP)**, **sentiment analysis**, or **topic modeling** tasks.
 
